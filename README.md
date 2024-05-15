@@ -1,0 +1,5 @@
+For our interactive graphic, we chose a line graph to depict the average grades over different quarters for various departments. Line graphs are intuitive for showing trends over time, making them an ideal choice for illustrating how academic performance trends within departments change across the Fall, Winter, and Spring quarters. Each line represents a department, with color coding used to differentiate between them. This choice was driven by the need for a clear, easy-to-understand visualization that could effectively communicate changes over time.
+
+Interactivity was implemented through a selection menu,  allowing users to select one or more departments for a detailed view. This feature enables users to tailor the visualization to reflect the data most relevant to their interests. Alternatives like sliders or checkboxes were considered but ultimately not chosen. Sliders, appropriate for continuous data, didn't fit the categorical nature of our department data.
+
+We pair programmed this whole project, and both were involved in all areas of development, from the ideation of the project to getting it set up online. 
